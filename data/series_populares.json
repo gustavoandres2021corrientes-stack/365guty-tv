@@ -1,0 +1,228 @@
+
+[
+  {
+    "titulo": "Breaking Bad",
+    "año": 2008,
+    "duracion": "45-60 min por episodio",
+    "genero": "Drama/Crimen/Thriller",
+    "creador": "Vince Gilligan",
+    "temporadas": 5,
+    "reparto_principal": [
+      "Bryan Cranston",
+      "Aaron Paul",
+      "Anna Gunn",
+      "RJ Mitte",
+      "Dean Norris"
+    ],
+    "sinopsis": "Walter White, un profesor de química de secundaria que descubre que tiene cáncer de pulmón terminal, se asocia con un ex estudiante para fabricar y vender metanfetaminas para asegurar el futuro financiero de su familia.",
+    "clasificacion": "TV-MA",
+    "poster_url": "https://imgs.search.brave.com/Y-DO7z13VP19D8bDQJt62zc1mwWhtV9MVrZOh9zUpHc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91bmlx/cS5hcnQvY2RuL3No/b3AvZmlsZXMvODI4/ODMzMjEtMmYyYi00/YzliLWE5Y2UtYjc2/YTkwOGQ5MWNmLmpw/Zz92PTE3MzY3MDg5/MDImd2lkdGg9MjA0/OA",
+    "tipo": "series"
+  },
+  {
+    "titulo": "Stranger Things",
+    "año": 2016,
+    "duracion": "45-75 min por episodio",
+    "genero": "Ciencia Ficción/Drama/Terror",
+    "creador": "The Duffer Brothers",
+    "temporadas": 4,
+    "reparto_principal": [
+      "Millie Bobby Brown",
+      "Finn Wolfhard",
+      "Gaten Matarazzo",
+      "Caleb McLaughlin",
+      "Noah Schnapp"
+    ],
+    "sinopsis": "En el pequeño pueblo de Hawkins, Indiana, en los años 80, un grupo de niños descubre experimentos sobrenaturales y fuerzas oscuras que amenazan su mundo.",
+    "clasificacion": "TV-14",
+    "poster_url": "https://imgs.search.brave.com/A7m4MWRHL0PYTlzlj2HwqXTFoI2kM0BWq68f1Ht_zvk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS81/YjQ0ZWRlZmNhMzIx/YTFlMmQwYzJhYTYv/NWQyMTE5MTcyZTU4/YjdhNjA0Yzg5MjE1/X0RpbWVuc2lvbnMt/R3VpZGUtUG9wLUN1/bHR1cmUtU3RyYW5n/ZXItVGhpbmdzLUlj/b24uc3Zn",
+    "tipo": "series"
+  },
+  {
+    "titulo": "Game of Thrones",
+    "año": 2011,
+    "duracion": "50-80 min por episodio",
+    "genero": "Fantasía/Drama/Aventura",
+    "creador": "David Benioff, D.B. Weiss",
+    "temporadas": 8,
+    "reparto_principal": [
+      "Emilia Clarke",
+      "Kit Harington",
+      "Peter Dinklage",
+      "Lena Headey",
+      "Nikolaj Coster-Waldau"
+    ],
+    "sinopsis": "En los continentes de Westeros y Essos, varias familias nobles luchan por el control del Trono de Hierro, mientras una antigua amenaza regresa del norte.",
+    "clasificacion": "TV-MA",
+    "poster_url": "https://imgs.search.brave.com/KHmyZzcLsw42AY5wn0gNNgigXT2QVPItY46mCWQfkL4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzE0Z3M3M3FTMkwu/anBn",
+    "tipo": "series"
+  },
+  {
+    "titulo": "The Crown",
+    "año": 2016,
+    "duracion": "55-60 min por episodio",
+    "genero": "Drama/Biografía/Historia",
+    "creador": "Peter Morgan",
+    "temporadas": 6,
+    "reparto_principal": [
+      "Claire Foy",
+      "Olivia Colman",
+      "Imelda Staunton",
+      "Matt Smith",
+      "Tobias Menzies"
+    ],
+    "sinopsis": "La vida de la Reina Isabel II desde los años 1940 hasta los tiempos modernos, explorando los eventos políticos y personales que marcaron el reinado más largo de la historia británica.",
+    "clasificacion": "TV-MA",
+    "poster_url": "https://imgs.search.brave.com/d7IGp55NXg15SFz7idJB0k_z77d0L3IJY9rm-Qiw3VI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/YWFycC5uZXQvY29u/dGVudC9kYW0vYWFy/cGUvZW4vaG9tZS9l/bnRlcnRhaW5tZW50/L21vdmllcy1mb3It/Z3Jvd251cHMvcXVl/ZW4tZWxpemFiZXRo/LWJlc3QtZmlsbXMt/c2hvd3MvX2pjcl9j/b250ZW50L3Jvb3Qv/Y29udGFpbmVyX21h/aW4vY29udGFpbmVy/X2JvZHlfbWFpbi9j/b250YWluZXJfYm9k/eTEvY29udGFpbmVy/X2JvZHlfY2YvY29u/dGFpbmVyX2ltYWdl/L2FydGljbGVjb250/ZW50ZnJhZ21lbnQv/Y2ZpbWFnZS5jb3Jl/aW1nLjUwLjkzMi5q/cGVnL2NvbnRlbnQv/ZGFtL2FhcnAvZW50/ZXJ0YWlubWVudC9t/b3ZpZXMtZm9yLWdy/b3dudXBzLzIwMjIv/MDkvMTE0MC10aGUt/Y3Jvd24uanBn",
+    "tipo": "series"
+  },
+  {
+    "titulo": "The Office",
+    "año": 2005,
+    "duracion": "22 min por episodio",
+    "genero": "Comedia/Mockumentary",
+    "creador": "Greg Daniels",
+    "temporadas": 9,
+    "reparto_principal": [
+      "Steve Carell",
+      "John Krasinski",
+      "Jenna Fischer",
+      "Rainn Wilson",
+      "Mindy Kaling"
+    ],
+    "sinopsis": "Un falso documental que sigue la vida diaria de los empleados de la oficina de ventas de Dunder Mifflin Paper Company en Scranton, Pennsylvania.",
+    "clasificacion": "TV-14",
+    "poster_url": "https://imgs.search.brave.com/24C3gklM6CzWDtYXS5YMtlf771o1cSzlDV6aawJyLi8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9paDEu/cmVkYnViYmxlLm5l/dC9pbWFnZS44Mjg5/NzczMzQuNzYyMi9m/cG9zdGVyLHNtYWxs/LHdhbGxfdGV4dHVy/ZSxzcXVhcmVfcHJv/ZHVjdCw2MDB4NjAw/LnUyLmpwZw",
+    "tipo": "series"
+  },
+  {
+    "titulo": "Friends",
+    "año": 1994,
+    "duracion": "22 min por episodio",
+    "genero": "Comedia/Romance",
+    "creador": "David Crane, Marta Kauffman",
+    "temporadas": 10,
+    "reparto_principal": [
+      "Jennifer Aniston",
+      "Courteney Cox",
+      "Lisa Kudrow",
+      "Matt LeBlanc",
+      "Matthew Perry",
+      "David Schwimmer"
+    ],
+    "sinopsis": "Las aventuras de seis amigos veinteañeros viviendo en Manhattan, navegando por las complejidades de la vida, el amor y las carreras profesionales.",
+    "clasificacion": "TV-14",
+    "poster_url": "https://imgs.search.brave.com/5tPjmVrtMuM82mM55Gd1kW8087SZq8XMu92jNlri8ls/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5wb3N0ZXJzdG9y/ZS5jb20vc2l0ZV9p/bWFnZXMvNjg2MzFm/YTg3ZDJhZTA4NGUx/ODI4MTNjXzY3MjE5/MTMyX1dCMDE5Mi04/LmpwZz9hdXRvPWNv/bXByZXNzLGZvcm1h/dCZmaXQ9bWF4Jnc9/Mzg0MA",
+    "tipo": "series"
+  },
+  {
+    "titulo": "The Mandalorian",
+    "año": 2019,
+    "duracion": "30-50 min por episodio",
+    "genero": "Ciencia Ficción/Aventura/Acción",
+    "creador": "Jon Favreau",
+    "temporadas": 3,
+    "reparto_principal": [
+      "Pedro Pascal",
+      "Gina Carano",
+      "Carl Weathers",
+      "Giancarlo Esposito",
+      "Werner Herzog"
+    ],
+    "sinopsis": "Un cazarrecompensas mandaloriano navega por los confines de la galaxia, lejos de la autoridad de la Nueva República, mientras protege a un misterioso niño.",
+    "clasificacion": "TV-14",
+    "poster_url": "https://imgs.search.brave.com/t-kM1zrCscX79tV6jIfVIf3DZhEeyhcka8KRjGc1kcg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZmlsbW9maWxpYS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDMvVGhlLU1h/bmRhbG9yaWFuLVBv/c3Rlci0xLTctc2Nh/bGVkLmpwZw",
+    "tipo": "series"
+  },
+  {
+    "titulo": "House of Cards",
+    "año": 2013,
+    "duracion": "45-60 min por episodio",
+    "genero": "Drama/Thriller Político",
+    "creador": "Beau Willimon",
+    "temporadas": 6,
+    "reparto_principal": [
+      "Kevin Spacey",
+      "Robin Wright",
+      "Michael Kelly",
+      "Neve Campbell",
+      "Derek Cecil"
+    ],
+    "sinopsis": "Frank Underwood, un político demócrata de Carolina del Sur, manipula su camino hacia la presidencia de Estados Unidos con la ayuda de su ambiciosa esposa Claire.",
+    "clasificacion": "TV-MA",
+    "poster_url": "https://imgs.search.brave.com/WxS9EccYFFhGeGgDr3PVwWBNcX1uESYq6uhm3ufCtPs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU2LzAz/L2NiLzU2MDNjYmNl/MjFjOTkyYTRlYzJm/ZDZiMzcwNzYwODJm/LS1mcmFuay11bmRl/cndvb2QtcG9zdGVy/LW9ubGluZS5qcGc",
+    "tipo": "series"
+  },
+  {
+    "titulo": "Black Mirror",
+    "año": 2011,
+    "duracion": "45-90 min por episodio",
+    "genero": "Ciencia Ficción/Thriller/Antología",
+    "creador": "Charlie Brooker",
+    "temporadas": 6,
+    "reparto_principal": [
+      "Diversos actores por episodio"
+    ],
+    "sinopsis": "Una serie antológica que explora el lado oscuro de la tecnología y cómo podría impactar nuestras vidas en un futuro cercano.",
+    "clasificacion": "TV-MA",
+    "poster_url": "https://imgs.search.brave.com/VmWlEeCXUhaF_rsLhoJRuZ30UGqACC5zicYNhORWXTo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk5qQTVObU00/WkdZdFptVXdZUzAw/WkdFekxUbGpNVGt0/TldKaVpHTmxZV1F4/TVRReVhrRXlYa0Zx/Y0djQC5qcGc",
+    "tipo": "series"
+  },
+  {
+    "titulo": "The Witcher",
+    "año": 2019,
+    "duracion": "50-70 min por episodio",
+    "genero": "Fantasía/Aventura/Drama",
+    "creador": "Lauren Schmidt",
+    "temporadas": 3,
+    "reparto_principal": [
+      "Henry Cavill",
+      "Anya Chalotra",
+      "Freya Allan",
+      "Joey Batey",
+      "MyAnna Buring"
+    ],
+    "sinopsis": "Geralt de Rivia, un cazador de monstruos solitario, lucha por encontrar su lugar en un mundo donde las personas a menudo resultan más malvadas que las bestias.",
+    "clasificacion": "TV-MA",
+    "poster_url": "https://imgs.search.brave.com/RWSalDuYuJEKLyuATeDlCuDJG2f8_8wzNgjJ-m7cWtA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzQ5NjI2ODE0L3Iv/aWwvZjhmYjM5LzU5/ODA4Mjc3MjAvaWxf/NjAweDYwMC41OTgw/ODI3NzIwX293djMu/anBn",
+    "tipo": "series"
+  },
+  {
+    "titulo": "Narcos",
+    "año": 2015,
+    "duracion": "45-60 min por episodio",
+    "genero": "Crimen/Drama/Biografía",
+    "creador": "Chris Brancato, Carlo Bernard, Doug Miro",
+    "temporadas": 3,
+    "reparto_principal": [
+      "Wagner Moura",
+      "Boyd Holbrook",
+      "Pedro Pascal",
+      "Joanna Christie",
+      "Juan Pablo Raba"
+    ],
+    "sinopsis": "La historia del cartel de drogas colombiano y los agentes de la DEA que lucharon contra él, centrándose en la vida de Pablo Escobar.",
+    "clasificacion": "TV-MA",
+    "poster_url": "https://imgs.search.brave.com/MAcB4zFLmTFPuL8rWXMk-6BlKFJ25GMkDe6Wi-IoaTU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZW5lcy5lbHBhaXMu/Y29tL3Jlc2l6ZXIv/djIvTU1GV0JURFhX/WTUyUTNZUFlJWFpJ/NEhWNEUuanBnP2F1/dGg9YmI2ODE5NTdl/NDliOTg0N2U0YjQ5/MDIwNzY4MjRkODcx/NjE3YjIyNjY3ZGQ4/OTNhNDhjZWJmZTVj/NzVjMDQ4OCZ3aWR0/aD00MTQmaGVpZ2h0/PTMxMSZzbWFydD10/cnVl",
+    "tipo": "series"
+  },
+  {
+    "titulo": "Money Heist (La Casa de Papel)",
+    "año": 2017,
+    "duracion": "45-70 min por episodio",
+    "genero": "Crimen/Drama/Thriller",
+    "creador": "Álex Pina",
+    "temporadas": 5,
+    "reparto_principal": [
+      "Úrsula Corberó",
+      "Álvaro Morte",
+      "Itziar Ituño",
+      "Pedro Alonso",
+      "Miguel Herrán"
+    ],
+    "sinopsis": "Un misterioso hombre llamado El Profesor planea el mayor atraco de la historia en la Real Casa de la Moneda de España, con la ayuda de ocho peculiares ladrones.",
+    "clasificacion": "TV-MA",
+    "poster_url": "https://imgs.search.brave.com/3AHR-xRdK9GsH1p16P0aBoeusvO2s_Bo6KfV9pdUEio/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnJl/ZGQuaXQvdDZsenB3/dTdxaHY0MS5qcGc",
+    "tipo": "series"
+  }
+]

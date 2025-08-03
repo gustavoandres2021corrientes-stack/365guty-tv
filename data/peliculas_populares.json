@@ -1,0 +1,342 @@
+[
+  {
+    "titulo": "El Padrino",
+    "año": 1972,
+    "duracion": "175 minutos",
+    "genero": "Drama/Crimen",
+    "director": "Francis Ford Coppola",
+    "reparto_principal": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan",
+      "Robert Duvall",
+      "Diane Keaton"
+    ],
+    "sinopsis": "La historia épica de la familia Corleone, una poderosa dinastía mafiosa en Nueva York. Cuando el patriarca Vito Corleone es atacado, su hijo menor Michael se ve obligado a involucrarse en el negocio familiar y transformarse en un despiadado líder.",
+    "clasificacion": "R",
+    "poster_url": "https://i.ebayimg.com/images/g/ioUAAOSw6Btj8lJA/s-l1200.jpg"
+  },
+  {
+    "titulo": "Pulp Fiction",
+    "año": 1994,
+    "duracion": "154 minutos",
+    "genero": "Crimen/Drama",
+    "director": "Quentin Tarantino",
+    "reparto_principal": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis",
+      "Harvey Keitel"
+    ],
+    "sinopsis": "Historias entrelazadas de crimen y redención en Los Ángeles, contadas de manera no lineal. Incluye las aventuras de dos sicarios filosóficos, un boxeador en declive y la esposa de un jefe mafioso.",
+    "clasificacion": "R",
+    "poster_url": "https://i.pinimg.com/736x/02/94/66/0294662b2319ba6c2355d35c917b2bca.jpg"
+  },
+  {
+    "titulo": "El Caballero de la Noche",
+    "año": 2008,
+    "duracion": "152 minutos",
+    "genero": "Acción/Crimen/Drama",
+    "director": "Christopher Nolan",
+    "reparto_principal": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Maggie Gyllenhaal",
+      "Gary Oldman"
+    ],
+    "sinopsis": "Batman enfrenta al Joker, un criminal psicótico que busca sumir a Ciudad Gótica en el caos. Con la ayuda del comisionado Gordon y del fiscal Harvey Dent, Batman debe tomar decisiones imposibles para salvar la ciudad.",
+    "clasificacion": "PG-13",
+    "poster_url": "https://i.pinimg.com/474x/fd/86/8e/fd868ea5f0967f231d86ad4d201aa470.jpg"
+  },
+  {
+    "titulo": "Casablanca",
+    "año": 1942,
+    "duracion": "102 minutos",
+    "genero": "Drama/Romance",
+    "director": "Michael Curtiz",
+    "reparto_principal": [
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "Paul Henreid",
+      "Claude Rains",
+      "Conrad Veidt"
+    ],
+    "sinopsis": "Durante la Segunda Guerra Mundial, Rick Blaine dirige un café en Casablanca. Su vida se complica cuando su antiguo amor Ilsa llega con su esposo, un líder de la resistencia francesa que necesita su ayuda para escapar de los nazis.",
+    "clasificacion": "PG",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNWEzN2U1YTYtYTQyMS00NTVkLWE2NGQtZWFlMmM0MDNjMmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "titulo": "Avengers: Endgame",
+    "año": 2019,
+    "duracion": "181 minutos",
+    "genero": "Acción/Aventura/Ciencia Ficción",
+    "director": "Anthony Russo, Joe Russo",
+    "reparto_principal": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Scarlett Johansson"
+    ],
+    "sinopsis": "Después de los eventos devastadores de Infinity War, los Vengadores supervivientes se unen una vez más para deshacer las acciones de Thanos y restaurar el equilibrio del universo, sin importar las consecuencias.",
+    "clasificacion": "PG-13",
+    "poster_url": "https://m.media-amazon.com/images/I/51WsPLUYWLL._UF894,1000_QL80_.jpg"
+  },
+  {
+    "titulo": "Parásitos",
+    "año": 2019,
+    "duracion": "132 minutos",
+    "genero": "Thriller/Drama/Comedia Negra",
+    "director": "Bong Joon-ho",
+    "reparto_principal": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik",
+      "Park So-dam"
+    ],
+    "sinopsis": "Una familia pobre vive en un sótano y trabaja plegando cajas de pizza. Un día consiguen trabajo en casa de una familia rica, pero los secretos y la codicia amenazan con destruir la frágil relación entre ambas familias.",
+    "clasificacion": "R",
+    "poster_url": "https://i.pinimg.com/736x/b4/b4/d4/b4b4d492c69719304a84986fd76bfe97.jpg"
+  },
+  {
+    "titulo": "Blade Runner 2049",
+    "año": 2017,
+    "duracion": "164 minutos",
+    "genero": "Ciencia Ficción/Drama",
+    "director": "Denis Villeneuve",
+    "reparto_principal": [
+      "Ryan Gosling",
+      "Harrison Ford",
+      "Ana de Armas",
+      "Jared Leto",
+      "Robin Wright"
+    ],
+    "sinopsis": "Treinta años después de los eventos de la película original, un nuevo blade runner descubre un secreto que lo lleva a buscar a Rick Deckard, quien ha estado desaparecido durante décadas.",
+    "clasificacion": "R",
+    "poster_url": "https://i.pinimg.com/564x/e6/a5/50/e6a550e786ee50b29d31ab5b3d4949fb.jpg"
+  },
+  {
+    "titulo": "Cadena Perpetua",
+    "año": 1994,
+    "duracion": "142 minutos",
+    "genero": "Drama",
+    "director": "Frank Darabont",
+    "reparto_principal": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton",
+      "William Sadler",
+      "Clancy Brown"
+    ],
+    "sinopsis": "Andy Dufresne, un banquero sentenciado a cadena perpetua por el asesinato de su esposa, entabla amistad con Red, otro preso. A lo largo de los años, Andy encuentra formas de sobrevivir a la brutalidad de la prisión y mantener la esperanza.",
+    "clasificacion": "R",
+    "poster_url": "https://i.pinimg.com/736x/a2/5b/4a/a25b4ae8e03c4b2ebd06d861a082956a.jpg"
+  },
+  {
+    "titulo": "Buenos Muchachos",
+    "año": 1990,
+    "duracion": "146 minutos",
+    "genero": "Crimen/Drama",
+    "director": "Martin Scorsese",
+    "reparto_principal": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco",
+      "Paul Sorvino"
+    ],
+    "sinopsis": "La historia de Henry Hill, desde su juventud en Brooklyn hasta su ascenso en las filas de la mafia. Basada en hechos reales, muestra la vida glamorosa pero peligrosa del crimen organizado.",
+    "clasificacion": "R",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "titulo": "Mad Max: Furia en la Carretera",
+    "año": 2015,
+    "duracion": "120 minutos",
+    "genero": "Acción/Aventura/Ciencia Ficción",
+    "director": "George Miller",
+    "reparto_principal": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult",
+      "Hugh Keays-Byrne",
+      "Rosie Huntington-Whiteley"
+    ],
+    "sinopsis": "En un mundo post-apocalíptico, Max se une a Furiosa, una comandante rebelde que huye del tirano Immortan Joe con sus cinco esposas. Juntos cruzan el desierto perseguidos por bandas de guerra.",
+    "clasificacion": "R",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "titulo": "¡Huye!",
+    "año": 2017,
+    "duracion": "104 minutos",
+    "genero": "Terror/Thriller",
+    "director": "Jordan Peele",
+    "reparto_principal": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Catherine Keener",
+      "Bradley Whitford",
+      "Caleb Landry Jones"
+    ],
+    "sinopsis": "Chris, un joven afroamericano, visita la propiedad familiar de su novia blanca. Inicialmente atribuye el comportamiento inquietante de la familia a su nerviosismo por la relación interracial, pero pronto descubre una verdad perturbadora.",
+    "clasificacion": "R",
+    "poster_url": "https://i.pinimg.com/564x/70/5c/51/705c516b178e15d8125578dc1f2175bf.jpg"
+  },
+  {
+    "titulo": "La La Land",
+    "año": 2016,
+    "duracion": "128 minutos",
+    "genero": "Musical/Romance/Drama",
+    "director": "Damien Chazelle",
+    "reparto_principal": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "John Legend",
+      "Rosemarie DeWitt",
+      "J.K. Simmons"
+    ],
+    "sinopsis": "Sebastian, un pianista de jazz, y Mia, una aspirante a actriz, se enamoran en Los Ángeles. Mientras persiguen sus sueños artísticos, deben enfrentar las decisiones que podrían separarlos para siempre.",
+    "clasificacion": "PG-13",
+    "poster_url": "https://i.pinimg.com/736x/b6/c5/12/b6c5121ba01ca14e8dfa4a304c1c3c92.jpg"
+  },
+  {
+    "titulo": "El Origen",
+    "año": 2010,
+    "duracion": "148 minutos",
+    "genero": "Ciencia Ficción/Acción/Thriller",
+    "director": "Christopher Nolan",
+    "reparto_principal": [
+      "Leonardo DiCaprio",
+      "Marion Cotillard",
+      "Tom Hardy",
+      "Ellen Page",
+      "Michael Caine"
+    ],
+    "sinopsis": "Dom Cobb es un especialista en extraer secretos del subconsciente durante el sueño. Se le ofrece la oportunidad de tener su historial limpio a cambio de realizar la tarea imposible: la incepción, plantar una idea en lugar de robarla.",
+    "clasificacion": "PG-13",
+    "poster_url": "https://i.pinimg.com/736x/f5/68/46/f56846aede1d004041ea5c8e19d8fad4.jpg"
+  },
+  {
+    "titulo": "El Gran Hotel Budapest",
+    "año": 2014,
+    "duracion": "99 minutos",
+    "genero": "Comedia/Drama",
+    "director": "Wes Anderson",
+    "reparto_principal": [
+      "Ralph Fiennes",
+      "F. Murray Abraham",
+      "Mathieu Amalric",
+      "Adrien Brody",
+      "Willem Dafoe"
+    ],
+    "sinopsis": "Las aventuras de Gustave H, un legendario conserje de un famoso hotel europeo, y Zero Moustafa, el botones que se convierte en su protegido. La historia involucra el robo de una pintura renacentista y una batalla por una fortuna familiar.",
+    "clasificacion": "R",
+    "poster_url": "https://pbs.twimg.com/media/CSBGD4PUkAAiFdX.jpg:large"
+  },
+  {
+    "titulo": "Alien: El Octavo Pasajero",
+    "año": 1979,
+    "duracion": "117 minutos",
+    "genero": "Ciencia Ficción/Terror",
+    "director": "Ridley Scott",
+    "reparto_principal": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "Veronica Cartwright",
+      "Harry Dean Stanton",
+      "John Hurt"
+    ],
+    "sinopsis": "La tripulación de la nave espacial Nostromo encuentra una forma de vida alien hostil que amenaza no solo sus vidas, sino a toda la humanidad. Ellen Ripley debe usar toda su astucia para sobrevivir al depredador perfecto.",
+    "clasificacion": "R",
+    "poster_url": "https://i.pinimg.com/736x/ae/ed/3d/aeed3d2568f8ca408bf14c6d60067acb.jpg"
+  },
+  {
+    "titulo": "Forrest Gump",
+    "año": 1994,
+    "duracion": "142 minutos",
+    "genero": "Drama/Romance/Comedia",
+    "director": "Robert Zemeckis",
+    "reparto_principal": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Mykelti Williamson",
+      "Sally Field"
+    ],
+    "sinopsis": "La extraordinaria vida de Forrest Gump, un hombre simple con un corazón grande que, sin darse cuenta, influye en algunos de los momentos más importantes de la historia estadounidense del siglo XX.",
+    "clasificacion": "PG-13",
+    "poster_url": "https://image.tmdb.org/t/p/original/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg"
+  },
+  {
+    "titulo": "El Viaje de Chihiro",
+    "año": 2001,
+    "duracion": "125 minutos",
+    "genero": "Animación/Familia/Fantasía",
+    "director": "Hayao Miyazaki",
+    "reparto_principal": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naito",
+      "Yasuko Sawaguchi"
+    ],
+    "sinopsis": "Chihiro, una niña de 10 años, se muda con sus padres a una nueva ciudad. En el camino, entran en un mundo mágico donde sus padres son transformados en cerdos y ella debe trabajar en un hotel para espíritus para liberarlos.",
+    "clasificacion": "PG",
+    "poster_url": "https://i.pinimg.com/564x/fd/5c/cd/fd5ccdefba9c80fe3a6302ec47cca00e.jpg"
+  },
+  {
+    "titulo": "Matrix",
+    "año": 1999,
+    "duracion": "136 minutos",
+    "genero": "Ciencia Ficción/Acción",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "reparto_principal": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving",
+      "Gloria Foster"
+    ],
+    "sinopsis": "Neo, un programador que lleva una doble vida como hacker, descubre que la realidad que conoce es una simulación. Debe elegir entre permanecer en la comodidad de la ilusión o despertar a la dura verdad del mundo real.",
+    "clasificacion": "R",
+    "poster_url": "https://i.pinimg.com/564x/91/d9/8e/91d98e26c95eb61d6e7312fb6e2efbd9.jpg"
+  },
+  {
+    "titulo": "Titanic",
+    "año": 1997,
+    "duracion": "194 minutos",
+    "genero": "Romance/Drama",
+    "director": "James Cameron",
+    "reparto_principal": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane",
+      "Gloria Stuart",
+      "Frances Fisher"
+    ],
+    "sinopsis": "En 1912, Jack Dawson y Rose DeWitt Bukater, de diferentes clases sociales, se enamoran a bordo del RMS Titanic durante su viaje inaugural. Su historia de amor se ve truncada por el trágico hundimiento del barco.",
+    "clasificacion": "PG-13",
+    "poster_url": "https://live.staticflickr.com/65535/53514290380_656e0f2559_b.jpg"
+  },
+  {
+    "titulo": "Tiburón",
+    "año": 1975,
+    "duracion": "124 minutos",
+    "genero": "Thriller/Aventura",
+    "director": "Steven Spielberg",
+    "reparto_principal": [
+      "Roy Scheider",
+      "Robert Shaw",
+      "Richard Dreyfuss",
+      "Lorraine Gary",
+      "Murray Hamilton"
+    ],
+    "sinopsis": "Un gran tiburón blanco aterroriza la comunidad playera de Amity Island. El jefe de policía, un biólogo marino y un cazador de tiburones veterano deben unirse para cazar a la bestia antes de que haga más víctimas.",
+    "clasificacion": "PG",
+    "poster_url": "https://i.ebayimg.com/00/s/MTYwMFgxMDY2/z/P4wAAOSwEW5Zd~Cf/$_57.JPG?set_id=8800005007"
+  }
+]

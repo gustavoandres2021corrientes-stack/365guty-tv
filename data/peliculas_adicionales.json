@@ -1,0 +1,219 @@
+
+[
+  {
+    "titulo": "Spider-Man: No Way Home",
+    "año": 2021,
+    "duracion": "148 minutos",
+    "genero": "Acción/Aventura/Ciencia Ficción",
+    "director": "Jon Watts",
+    "reparto_principal": [
+      "Tom Holland",
+      "Zendaya",
+      "Benedict Cumberbatch",
+      "Jacob Batalon",
+      "Jon Favreau"
+    ],
+    "sinopsis": "Con la identidad de Spider-Man revelada, Peter pide ayuda al Doctor Strange. Cuando un hechizo sale mal, enemigos peligrosos de otros mundos aparecen, forzando a Peter a descubrir lo que realmente significa ser Spider-Man.",
+    "clasificacion": "PG-13",
+    "poster_url": "https://imgs.search.brave.com/10Ya8FKaYlhxS7ToS5_hUvzGpM6npsxLsLRTJ1NRjcw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/ZGlzcGxhdGUuY29t/L2FydHdvcmsvMjcw/eDM4MC8yMDI0LTAx/LTIyL2E1NmRhYWQ0/ZjRmOWQ5NTFhZTMw/NGQ5NjhjNzU0YTcx/X2NkMmFlMmU0ZTk4/MTZhNzk4NjJjNDY4/M2FlMGY5MjEwLmpw/Zw",
+    "tipo": "movie"
+  },
+  {
+    "titulo": "Top Gun: Maverick",
+    "año": 2022,
+    "duracion": "130 minutos",
+    "genero": "Acción/Drama",
+    "director": "Joseph Kosinski",
+    "reparto_principal": [
+      "Tom Cruise",
+      "Miles Teller",
+      "Jennifer Connelly",
+      "Jon Hamm",
+      "Glen Powell"
+    ],
+    "sinopsis": "Después de más de treinta años de servicio como uno de los mejores aviadores de la Marina, Pete 'Maverick' Mitchell debe enfrentar una misión que podría costarle la vida.",
+    "clasificacion": "PG-13",
+    "poster_url": "https://placehold.co/1200x600/e2e8f0/1e293b?text=Movie_poster_for_the_film_Top_Gun_featuring_Pete__",
+    "tipo": "movie"
+  },
+  {
+    "titulo": "Dune",
+    "año": 2021,
+    "duracion": "155 minutos",
+    "genero": "Ciencia Ficción/Aventura/Drama",
+    "director": "Denis Villeneuve",
+    "reparto_principal": [
+      "Timothée Chalamet",
+      "Rebecca Ferguson",
+      "Oscar Isaac",
+      "Josh Brolin",
+      "Stellan Skarsgård"
+    ],
+    "sinopsis": "Paul Atreides, un joven brillante y talentoso nacido con un gran destino, debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y su pueblo.",
+    "clasificacion": "PG-13",
+    "poster_url": "https://imgs.search.brave.com/EwTpbPOehePIBQJIPWVBQkQ1Ara839ZIxc4sM3xqLaA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9saXZl/LnN0YXRpY2ZsaWNr/ci5jb20vNjU1MzUv/NTE0MzYyNDYyNTdf/NzgzOWU5YWU2OS5q/cGc",
+    "tipo": "movie"
+  },
+  {
+    "titulo": "Oppenheimer",
+    "año": 2023,
+    "duracion": "180 minutos",
+    "genero": "Biografía/Drama/Historia",
+    "director": "Christopher Nolan",
+    "reparto_principal": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Matt Damon",
+      "Robert Downey Jr.",
+      "Florence Pugh"
+    ],
+    "sinopsis": "La historia de J. Robert Oppenheimer, el físico teórico que ayudó a desarrollar la bomba atómica durante la Segunda Guerra Mundial.",
+    "clasificacion": "R",
+    "poster_url": "https://imgs.search.brave.com/giQ44jNDavAKDs9jTYmkjkcvDeFMHmPf3SDUtO3Z4XI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/NC80YS9PcHBlbmhl/aW1lcl8oZmlsbSku/anBnLzI1MHB4LU9w/cGVuaGVpbWVyXyhm/aWxtKS5qcGc",
+    "tipo": "movie"
+  },
+  {
+    "titulo": "Barbie",
+    "año": 2023,
+    "duracion": "114 minutos",
+    "genero": "Comedia/Fantasía",
+    "director": "Greta Gerwig",
+    "reparto_principal": [
+      "Margot Robbie",
+      "Ryan Gosling",
+      "America Ferrera",
+      "Kate McKinnon",
+      "Issa Rae"
+    ],
+    "sinopsis": "Barbie es expulsada de Barbieland por ser imperfecta. Se embarca en una aventura en el mundo real para encontrar la verdadera felicidad.",
+    "clasificacion": "PG-13",
+    "poster_url": "https://imgs.search.brave.com/8SQ-ZCKRwuLQr4kdwhlFBt3qviRP6qEA4L-119Myh_M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMxLmNicmltYWdl/cy5jb20vd29yZHBy/ZXNzL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIzLzA0L2JhcmJp/ZS1tb3ZpZS1taWRn/ZS1jaGFyYWN0ZXIt/cG9zdGVyLmpwZw",
+    "tipo": "movie"
+  },
+  {
+    "titulo": "Everything Everywhere All at Once",
+    "año": 2022,
+    "duracion": "139 minutos",
+    "genero": "Ciencia Ficción/Comedia/Drama",
+    "director": "Daniels",
+    "reparto_principal": [
+      "Michelle Yeoh",
+      "Stephanie Hsu",
+      "Ke Huy Quan",
+      "Jamie Lee Curtis",
+      "James Hong"
+    ],
+    "sinopsis": "Una mujer china-estadounidense debe conectar con versiones de sí misma de universos paralelos para evitar que una fuerza poderosa destruya el multiverso.",
+    "clasificacion": "R",
+    "poster_url": "https://imgs.search.brave.com/aSP8ISCsKqR_nc87CQzefS6prG-iiH2tk09HYr2RuIU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vMS8xZS9F/dmVyeXRoaW5nX0V2/ZXJ5d2hlcmVfQWxs/X2F0X09uY2UuanBn",
+    "tipo": "movie"
+  },
+  {
+    "titulo": "Black Panther",
+    "año": 2018,
+    "duracion": "134 minutos",
+    "genero": "Acción/Aventura/Ciencia Ficción",
+    "director": "Ryan Coogler",
+    "reparto_principal": [
+      "Chadwick Boseman",
+      "Michael B. Jordan",
+      "Lupita Nyong'o",
+      "Danai Gurira",
+      "Martin Freeman"
+    ],
+    "sinopsis": "T'Challa regresa a casa a la nación africana de Wakanda para convertirse en rey, pero cuando un poderoso enemigo aparece, su coraje se ve puesto a prueba.",
+    "clasificacion": "PG-13",
+    "poster_url": "https://imgs.search.brave.com/x6BgR6N88i0h2GVD5RYuqyQvdrnMlKK5JoCpMiK-V4M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzE3L2M5/LzBiLzE3YzkwYmYx/ZjQwNTkyZmUyZGRk/ODQyNWJhNDU5YjMz/LmpwZw",
+    "tipo": "movie"
+  },
+  {
+    "titulo": "Joker",
+    "año": 2019,
+    "duracion": "122 minutos",
+    "genero": "Crimen/Drama/Thriller",
+    "director": "Todd Phillips",
+    "reparto_principal": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz",
+      "Frances Conroy",
+      "Brett Cullen"
+    ],
+    "sinopsis": "En 1981, Arthur Fleck, un comediante fallido, se transforma en el criminal conocido como Joker en la Ciudad Gótica.",
+    "clasificacion": "R",
+    "poster_url": "https://imgs.search.brave.com/uXRqwg80fiMefnvK5bfBF2yHZSjcJwZoIvOolQ2ZpPM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93MC5w/ZWFrcHguY29tL3dh/bGxwYXBlci83OTUv/NTMwL0hELXdhbGxw/YXBlci1qb2tlci1m/YW4tYXJ0LTIwMTkt/bW92aWUtYXJ0aHVy/LWZsZWNrLXBvc3Rl/ci1qb2FxdWluLXBo/b2VuaXgtMjAxOS1q/b2tlci10aHVtYm5h/aWwuanBn",
+    "tipo": "movie"
+  },
+  {
+    "titulo": "Avatar: The Way of Water",
+    "año": 2022,
+    "duracion": "192 minutos",
+    "genero": "Ciencia Ficción/Aventura/Acción",
+    "director": "James Cameron",
+    "reparto_principal": [
+      "Sam Worthington",
+      "Zoe Saldana",
+      "Sigourney Weaver",
+      "Stephen Lang",
+      "Kate Winslet"
+    ],
+    "sinopsis": "Jake Sully vive con su nueva familia formada en el planeta de Pandora. Cuando una amenaza familiar regresa para terminar lo que comenzó anteriormente, Jake debe trabajar con Neytiri.",
+    "clasificacion": "PG-13",
+    "poster_url": "https://imgs.search.brave.com/E46WS8XDPZmWQ0ILpZjdk1n777bezFsACkcLDi1mZQ8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/OTE2MTNTS0JXLUwu/anBn",
+    "tipo": "movie"
+  },
+  {
+    "titulo": "The Batman",
+    "año": 2022,
+    "duracion": "176 minutos",
+    "genero": "Acción/Crimen/Drama",
+    "director": "Matt Reeves",
+    "reparto_principal": [
+      "Robert Pattinson",
+      "Zoë Kravitz",
+      "Paul Dano",
+      "Jeffrey Wright",
+      "Colin Farrell"
+    ],
+    "sinopsis": "En su segundo año luchando contra el crimen, Batman descubre la corrupción en Ciudad Gótica que conecta con su propia familia mientras enfrenta a un asesino conocido como Riddler.",
+    "clasificacion": "PG-13",
+    "poster_url": "https://placehold.co/1200x600/e2e8f0/1e293b?text=Movie_poster_for_a_Batman_film_featuring_Colin_Far",
+    "tipo": "movie"
+  },
+  {
+    "titulo": "Encanto",
+    "año": 2021,
+    "duracion": "102 minutos",
+    "genero": "Animación/Familia/Comedia",
+    "director": "Jared Bush, Byron Howard",
+    "reparto_principal": [
+      "Stephanie Beatriz",
+      "María Cecilia Botero",
+      "John Leguizamo",
+      "Mauro Castillo",
+      "Jessica Darrow"
+    ],
+    "sinopsis": "Una joven colombiana puede ser la última esperanza de su familia cuando descubre que la magia que rodea a Encanto está en peligro.",
+    "clasificacion": "PG",
+    "poster_url": "https://imgs.search.brave.com/C2XoaVclCOCE4HaWiqGobC15x4e9ZAkRAEVHfY2p5B8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzZiLzIy/Lzk2LzZiMjI5Njk5/NmVkZTc4Mjc0NWQ3/NmY5Yzk0OGYyYzVh/LmpwZw",
+    "tipo": "movie"
+  },
+  {
+    "titulo": "No Time to Die",
+    "año": 2021,
+    "duracion": "163 minutos",
+    "genero": "Acción/Aventura/Thriller",
+    "director": "Cary Joji Fukunaga",
+    "reparto_principal": [
+      "Daniel Craig",
+      "Rami Malek",
+      "Léa Seydoux",
+      "Lashana Lynch",
+      "Ben Whishaw"
+    ],
+    "sinopsis": "James Bond ha dejado el servicio activo cuando su amigo de la CIA le pide ayuda, llevándolo en una misión para rescatar a un científico secuestrado.",
+    "clasificacion": "PG-13",
+    "poster_url": "https://placehold.co/1200x600/e2e8f0/1e293b?text=movie_poster_for_a_James_Bond_film_featuring_Ben_W",
+    "tipo": "movie"
+  }
+]
