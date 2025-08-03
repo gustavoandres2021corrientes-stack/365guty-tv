@@ -1,0 +1,154 @@
+generator client {
+    provider = "prisma-client-js"
+    binaryTargets = ["native", "linux-musl-arm64-openssl-3.0.x"]
+    output = "/home/ubuntu/365guty_tv/app/node_modules/.prisma/client"
+}
+
+datasource db {
+    provider = "postgresql"
+    url      = env("DATABASE_URL")
+}
+
+model User {
+    id              String    @id @default(cuid())
+    name            String    // Para personalizar la bienvenida
+    password        String    // Contraseña única para autenticación
+    dni             String?   // Campo opcional
+    isAdmin         Boolean   @default(false)
+    
+    // Control de usuarios y estados
+    status          String    @default("active") // "active", "suspended", "inactive"
+    userType        String    @default("standard") // "standard", "demo", "admin"
+    demoExpiresAt   DateTime? // Para usuarios demo con tiempo limitado
+    suspendedAt     DateTime? // Fecha de suspensión
+    suspensionReason String?  // Razón de la suspensión
+    
+    // Metadatos
+    lastLogin       DateTime?
+    createdAt       DateTime  @default(now())
+    updatedAt       DateTime  @updatedAt
+    
+    // Relaciones
+    chatMessages    ChatMessage[]
+    accounts        Account[]
+    sessions        Session[]
+    
+    @@map("users")
+}
+
+model Movie {
+    id          String   @id @default(cuid())
+    title       String
+    description String?
+    year        Int?
+    duration    String?  // Ej: "120 min"
+    genre       String?
+    rating      String?  // Ej: "PG-13", "R", etc.
+    director    String?
+    cast        String?  // Actores principales separados por comas
+    type        String   @default("movie") // "movie", "series", "tv", "tv-show"
+    
+    // URLs (para películas individuales)
+    videoUrl    String?  // Opcional para series
+    imageUrl    String?  // URL de imagen externa (poster)
+    trailerUrl  String?  // URL opcional del trailer
+    
+    // Metadatos
+    featured    Boolean  @default(false) // Para destacar en el home
+    active      Boolean  @default(true)  // Para habilitar/deshabilitar
+    createdAt   DateTime @default(now())
+    updatedAt   DateTime @updatedAt
+    
+    // Relaciones
+    episodes    Episode[] // Capítulos para series
+    
+    @@map("movies")
+}
+
+model Episode {
+    id          String   @id @default(cuid())
+    title       String   // Título del capítulo
+    description String?  // Descripción del capítulo
+    episodeNumber Int    // Número del capítulo
+    season      Int      @default(1) // Temporada
+    duration    String?  // Duración del capítulo
+    videoUrl    String   // URL del video del capítulo
+    imageUrl    String?  // Imagen específica del capítulo (opcional)
+    
+    // Relación con la serie
+    movieId     String
+    movie       Movie    @relation(fields: [movieId], references: [id], onDelete: Cascade)
+    
+    // Metadatos
+    active      Boolean  @default(true)
+    createdAt   DateTime @default(now())
+    updatedAt   DateTime @updatedAt
+    
+    @@unique([movieId, season, episodeNumber])
+    @@map("episodes")
+}
+
+model ChatMessage {
+    id        String   @id @default(cuid())
+    content   String
+    isAdmin   Boolean  @default(false) // true si es mensaje del admin
+    userName  String   // Nombre del usuario que envió el mensaje
+    userId    String?  // ID del usuario (null para admin)
+    createdAt DateTime @default(now())
+    
+    // Relaciones
+    user      User?    @relation(fields: [userId], references: [id], onDelete: SetNull)
+    
+    @@map("chat_messages")
+}
+
+model ContactInfo {
+    id        String   @id @default(cuid())
+    content   String   // Texto editable con teléfonos/correos
+    active    Boolean  @default(true)
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt
+    
+    @@map("contact_info")
+}
+
+model AppSettings {
+    id                String   @id @default(cuid())
+    key               String   @unique // Clave del setting
+    value             String   // Valor del setting
+    description       String?  // Descripción del setting
+    updatedAt         DateTime @updatedAt
+    
+    @@map("app_settings")
+}
+
+// Para Next-Auth (si se necesita en el futuro)
+model Account {
+    id                String  @id @default(cuid())
+    userId            String
+    type              String
+    provider          String
+    providerAccountId String
+    refresh_token     String? @db.Text
+    access_token      String? @db.Text
+    expires_at        Int?
+    token_type        String?
+    scope             String?
+    id_token          String? @db.Text
+    session_state     String?
+
+    user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+    @@unique([provider, providerAccountId])
+    @@map("accounts")
+}
+
+model Session {
+    id           String   @id @default(cuid())
+    sessionToken String   @unique
+    userId       String
+    expires      DateTime
+    user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+    @@map("sessions")
+}
